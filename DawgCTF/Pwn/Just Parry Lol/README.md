@@ -22,7 +22,7 @@ If you input the warrior name "**AUTOPARRY**", the auto-parry feature is activat
 
 ### Retrieving the flag
 
-![flag](https://github.com/aqxq/CTF-Writeups/blob/main/DawgCTF/Pwn/Just%20Parry%20lol/flag.png)
+![flag](https://github.com/aqxq/CTF-Writeups/blob/main/DawgCTF/Pwn/Just%20Parry%20Lol/flag.png)
 
 
 FLAG: `DawgCTF{fr4me_d4ta_m4nipulat10n}`
