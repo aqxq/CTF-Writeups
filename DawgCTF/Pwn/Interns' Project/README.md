@@ -23,6 +23,6 @@ The goal is to print the flag, which is stored in a file named `flag.txt`. The f
    - The program prevents non-root users from accessing the flag directly.
    - To bypass this, input `1 2`. This will make the program execute option `1` (Say hi) and proceed to print the flag after option `2`.
 
-![serverflag](https://github.com/aqxq/CTF-Writeups/blob/main/DawgCTF/Misc/Interns%27%20Project/serverflag.png)
+![serverflag](https://github.com/aqxq/CTF-Writeups/blob/main/DawgCTF/Pwn/Interns'%20Project/serverflag.png)
 
 FLAG: `DawgCTF{B@d_P3rm1ssi0ns}`
