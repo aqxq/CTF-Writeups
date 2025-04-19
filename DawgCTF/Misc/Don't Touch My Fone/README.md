@@ -10,4 +10,6 @@ I chose to use [this one](https://dtmf.netlify.app/)
 
 By uploading the audio file and setting the sensitivity threshold to 0.1, you are given the phone number, which you can then put into the DawgCTF{} formatting.
 
+![dtmf](https://github.com/aqxq/CTF-Writeups/blob/main/DawgCTF/Misc/Don't%20Touch%20My%20Fone/DTMF.png)
+
 FLAG: `DawgCTF{4104553500}`
