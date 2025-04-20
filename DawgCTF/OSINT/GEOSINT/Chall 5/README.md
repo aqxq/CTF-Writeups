@@ -14,3 +14,5 @@ Looking around, there is `FOLLOW OUR JOURNEY` on the window. Taking a screenshot
 The link is `sanctuary.aqua.org`. Opening this link allows you to infer that this picture was taken at the National Aquarium in Baltimore.
 
 ![flag](https://github.com/aqxq/CTF-Writeups/blob/main/DawgCTF/OSINT/GEOSINT/Chall%205/chall5.png)
+
+FLAG: `DawgCTF{howmanyofyoujustknewitwasbaltimore?}`
