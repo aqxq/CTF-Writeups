@@ -5,7 +5,7 @@ Mein Kumpel und ich sind während unseres Besuchs in Deutschland in einem Einkau
 
 ## Solution
 
-We are given an image. Quick reverse image search says that the structure in the building is `Schultheiss Quartier`. Going to Google Maps and searching for `supermarket near Schultheiss Quartier` gives many options, but only one fits the flag format of DawgCTF{wort_wort-wort}.
+We are given an image. Quick reverse image search says that the structure in the picture is `Schultheiss Quartier`. Going to Google Maps and searching for `supermarket near Schultheiss Quartier` gives many options, but only one fits the flag format of DawgCTF{wort_wort-wort}.
 
 ![map](map.png)
 
