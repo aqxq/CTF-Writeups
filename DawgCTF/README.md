@@ -1,8 +1,9 @@
 ## Stats
 
 ### Placed 
-- ___ out of 758 teams that did at least one problem
-- ___ out of 1207 teams overall
+- 119 out of 760 teams that did at least one problem
+- 119 out of 1210 teams overall
+- 5725 points
 
 ### Achievements
 - First Blood for GEOSINT - chall10 - hard
