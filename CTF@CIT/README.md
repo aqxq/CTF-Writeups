@@ -4,3 +4,4 @@
 
 ## Place
 151/190 - 12327 points
+![placing](devfault.png)
